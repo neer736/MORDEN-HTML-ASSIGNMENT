@@ -1,0 +1,40 @@
+FEATURES OF HTML5
+HTML 5 features are already going places after offering web developers more comfort while creating websites. HTML 5 is a sequel to HTML 4 and has never seen such a big update ever before. Moreover, HTML5 has emphasized its support for responsiveness, graphics, and rendering multimedia elementsIt introduced several new features and improvements over its predecessor,
+
+Semantic Elements
+Audio and Video Support
+Vector Graphics
+Header and Footer
+Geolocation
+Micro Data
+Cross Document Messaging
+Email attribute
+Canvas Elements
+Drag and Drop API
+
+Semantic Elements :
+When constructing an HTML script, the term “semantic” refers to the meaning of the text. Semantics, to put it simply, is the use of HTML tags that accurately reflect the content they contain.HTML5 introduced new semantic elements like header,footer,aside,section etc These elements provide a clearer structure to web documents.
+
+Audio and Video Support :
+One of the many HTML 5 features is the support for audio and video. It has reduced the hassle of relying upon third-party services such as Adobe Flash player. To embed Audio and Video into your HTML document, you may use the following two tags, audio and video tags these elements to embed multimedia content directly into web pages
+
+Vector Graphics :
+This is a new addition to the revised version which has hugely impacted the use of Adobe Flash in websites. It can be used to draw graphics with various shapes and colors via scripting usually JS. Vector graphics are scalable, easy to create and edit. It also supports interactivity and animation. Having a smaller file size makes transferring and loading graphics much faster on the web. Thats the reason why many people prefer to use vector graphics
+
+Geolocation:
+The Geolocation API is an HTML feature that is used to access the geographical position of a user, however, it is not accessed unless the user approves of it. If you are wondering where this feature is useful, these come in handy while creating apps like taxi apps, food order tracking apps, fitness tracking apps, and more.
+
+Micro Data :
+Micro Data in simpler words is a further deeper level to provide semantics to your webpage. This feature is used to structure data in HTML documents by embedding your own customized elements. Microdata may be used to specify a variety of structured data, such as details about events, items, companies, and more.
+
+Cross Document Messaging
+In general, web browsers dont let web pages from different domains influence each other, this is done for several security reasons, however, even if the web pages dont intend to intrigue the privacy or harm the other web page. There are several scenarios, in which you want to access cross-document communication to make your web page more interactive with less effort.
+
+Header and Footer:
+With these new tags, there is no longer a need to identify the two elements with a div tag. Footer is placed at the end of the web page while Header is placed at the start of the web page. By using header and footer HTML5 elements, the browser will know what to load first and what to load later.
+
+Email attribute
+When the input type in the form set as email, then the browser gets the instruction from the code to write a valid format email. The input email id is automatically validated to check the format of the email id is correct or not
+
+Canvas Elements :
+To initialize the Canvas element canvas tag is used with only two specific attributes, width and height. Once, the element is initialized, it is then taken care of with the help of JavaScript to draw shapes, lines, images, and more. It's commonly used for creating games, interactive charts, and other graphical content.

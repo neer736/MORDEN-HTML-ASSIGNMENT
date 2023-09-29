@@ -1,0 +1,13 @@
+HTML Entities :
+HTML character entities are used as a replacement of reserved characters in HTML.
+These characters are replaced because some characters are reserved in HTML. HTML entities provide a wide range of characters which can allow you to add icons, geometric shapes, mathematical operators, etc.HTML entities are written using an ampersand (&) followed by a code or name, and then closed with a semicolon (;).
+For example: if you use less than (<) or greater than (>) symbols in your text, the browser can mix them with tags that's why character entities are used in HTML to display reserved characters.
+
+Some commonly uses Entities are :
+1. &deg;       degree	      &#176;
+2. &para;	   paragraph      &#182;
+3. &copy;      Copyrighyt     &#169;
+4. &amp;       Ampersand      &#38;
+5. &lt;        Less than      &#60;
+6. &gt;        Greater than   &#62;
+7. &dollar;    Dollar Sign    &#36;

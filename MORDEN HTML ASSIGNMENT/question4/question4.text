@@ -1,0 +1,6 @@
+ways to improve the accessbility of HTML 
+Proper HTML Forms:
+When creating forms, ensure they are accessible by adding appropriate labels and using accessible form elements. Use <label> elements associated with form controls using the for attribute, and make sure each input field has a unique and descriptive label.
+Provide Alt Text for Images: Adding descriptive alt text to images using the alt attribute ensures that users who
+cannot see the images can understand their content and purpose.
+Text Content - Having well structured content that includes headings, paragraphs and lists is one of the most importent accessbility feature for users who uses screen readers.well structured text content increase the accessbility.
